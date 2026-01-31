@@ -29,7 +29,7 @@ author:
   bio              : "A student at the University of Houston showcasing their academic and professional profile."
   location         : "Cypress, TX"
   employer         : "University of Houston"
-  UHCS department              : "https://www.uh.edu/nsm/computer-science/"
+  School uri              : "https://www.uh.edu/nsm/computer-science/"
   email            : "aaryadhali@gmail.com" 
 
   # Academic websites
@@ -45,7 +45,7 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
-  #UHCS department  : "https://www.uh.edu/nsm/computer-science/"
+  UHCS department  : "https://www.uh.edu/nsm/computer-science/"
 
 
   # Repositories and software development
