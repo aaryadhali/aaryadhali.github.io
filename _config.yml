@@ -41,11 +41,11 @@ author:
   orcid            : #
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : #
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
-  UHCS department  :"https://www.uh.edu/nsm/computer-science/"
+  UHCS department  : "https://www.uh.edu/nsm/computer-science/"
 
 
   # Repositories and software development
