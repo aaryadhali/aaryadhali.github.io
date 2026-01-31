@@ -8,15 +8,15 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Aarya Dhaliwal's Website"
 title_separator          : "-"
 name                     : &name "l"
-description              : &description "Aarya Dhaliwaa's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Aarya Dhaliwal's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://aaryadhali.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "aaryadhali/aaryadhali.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,7 @@ author:
   bio              : "A student at the University of Houston showcasing their academic and professional profile."
   location         : "Cypress, TX"
   employer         : "University of Houston"
-  uri              : "https://www.uh.edu/nsm/computer-science/"
+  UHCS department              : "https://www.uh.edu/nsm/computer-science/"
   email            : "aaryadhali@gmail.com" 
 
   # Academic websites
@@ -45,7 +45,7 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
-  UHCS department  : "https://www.uh.edu/nsm/computer-science/"
+  #UHCS department  : "https://www.uh.edu/nsm/computer-science/"
 
 
   # Repositories and software development
