@@ -1,14 +1,16 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<div style="text-align: center; margin-bottom: 20px;">
+    <a href="{{ base_path }}/files/Aarya_Dhaliwal.pdf" class="btn btn--info" target="_blank">Download PDF Resume</a>
+</div>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<iframe src="{{ base_path }}/files/Aarya_Dhaliwal.pdf" width="100%" height="500px" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ base_path }}/assets/resume.pdf">Download PDF</a>.
+</iframe>
