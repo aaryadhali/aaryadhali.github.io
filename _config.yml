@@ -23,13 +23,14 @@ repository               : "aaryadhali/aaryadhali.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_6293.JPG"
+  avatar           : "images/Profile.jpg"
   name             : "Aarya Dhaliwal"
   pronouns         : "she/her"  
   bio              : "A student at the University of Houston showcasing their academic and professional profile."
   location         : "Cypress, TX"
   employer         : "University of Houston"
-  School uri              : "https://www.uh.edu/nsm/computer-science/"
+  # This adds a "Website" link icon to your sidebar
+  uri              : "https://www.uh.edu/nsm/computer-science/"
   email            : "aaryadhali@gmail.com" 
 
   # Academic websites
@@ -58,7 +59,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -156,9 +157,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :G-5YYJ7VF401
+    tracking_id          : G-5YYJ7VF401
 
 
 # Reading Files
