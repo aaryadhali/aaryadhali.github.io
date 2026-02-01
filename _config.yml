@@ -23,7 +23,7 @@ repository               : "aaryadhali/aaryadhali.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "/images/profile.png"
   name             : "Aarya Dhaliwal"
   pronouns         : "she/her"  
   bio              : "A student at the University of Houston showcasing their academic and professional profile."
